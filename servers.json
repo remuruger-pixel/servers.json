@@ -3,9 +3,9 @@
       "color": "FF0000",
       "dopname": "(X2 АКЦИИ)",
       "maxonline": 500,
-      "name": "YOUR SERVER",
+      "name": "test server",
       "online": 349,
-      "host": "127.0.0.1",
-      "port": 7777
+      "host": "91.219.149.29",
+      "port": 1330
     }
 ]
