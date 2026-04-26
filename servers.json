@@ -1,0 +1,11 @@
+[
+    {
+      "color": "FF0000",
+      "dopname": "(X2 АКЦИИ)",
+      "maxonline": 500,
+      "name": "YOUR SERVER",
+      "online": 349,
+      "host": "127.0.0.1",
+      "port": 7777
+    }
+]
